@@ -84,7 +84,7 @@ int gSum(Node *aNode, int max, int min) {
 }
 
 
-int main()//головна програма
+int main()//головна програма лол
 {
 	setlocale(LC_ALL, "Russian");
 	Node *root = new Node;
